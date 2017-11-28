@@ -1,7 +1,7 @@
-//Version - 1
+//Version - 1.1
 #include<stdio.h>
 int main()
 {
-printf("Hello\n");
+printf("Hello world \n");
 }
 
